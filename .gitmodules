@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "artMS"]
+	path = artMS
+	url = https://github.com/biodavidjm/artms
+	shallow = true
+	registered = true
